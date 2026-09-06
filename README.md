@@ -1,6 +1,6 @@
 # SottoWrite for desktop
 
-Installers for the SottoWrite screenplay editor for Mac, Windwos and Linux.
+Installers for the SottoWrite screenplay editor for Mac, Windows and Linux.
 
 These are early builds and are not yet signed, so each system shows a warning the first time you try to open SottoWrite. The steps for getting past this warning are given below.
 
