@@ -43,7 +43,7 @@ pick. It runs anywhere and updates itself. The
 prefer a package; it does not update itself, so you come back here for new
 versions.
 
-**AppImage:** make it executable and run it. In a terminal, in the folder
+**AppImage:** make it executable and run it. On Ubuntu 24.04 and newer, run **sudo apt install libfuse2t64** first to allow AppImage to run. Then, in a terminal, in the folder
 you downloaded to:
 
     chmod +x SottoWrite-*.AppImage
